@@ -1,6 +1,6 @@
 # ComputerGraphics_final
 Particle Collision Simulator made using SDL and C++.
-## Code and Demo
+## Shader Code Walk Through and Demo
 https://youtu.be/dlRgh6sNrPc
 
 This is an academic project for CS4300 at Northeastern University, Do not PLAGIARIZE!
